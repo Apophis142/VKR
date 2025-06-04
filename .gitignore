@@ -1,0 +1,13 @@
+/.venv/**
+/data/frames/**
+/data/video/**
+*.zip
+*.pkl
+*.png
+*.xml
+*.pth
+/.idea/**
+
+*.mp4
+*.flv
+*.avi
